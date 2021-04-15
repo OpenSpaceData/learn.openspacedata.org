@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: Learn how to observe the Earth from space
-description: On this page you will find useful instructions for beginners to get started with earth observation and remote sensing. Additionally, we have special interest guides if you are a journalist or interested in using EO for humanitarian aid. <strong>This site is work in progress.</strong>
+description: On this page you will find useful instructions for beginners to get started with earth observation and remote sensing. Additionally, we have special interest guides if you are a journalist or interested in using EO for humanitarian aid. <strong>This site is work in progress. Help us develop the content on this page.</strong>
 buttons:
     - icon: arrow-right
       content: Let's get started
