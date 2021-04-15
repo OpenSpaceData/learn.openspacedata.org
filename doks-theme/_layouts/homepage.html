@@ -68,16 +68,18 @@
 								<div class="row">
 									{% for item in page.grid_navigation %}
 										<div class="col-sm-6 col-lg-4">
-											<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ item.url }}" class="nav-grid__item">
+											<div class="nav-grid__item"></a>
 												<div class="nav-grid__content" data-mh>
 													<h2 class="nav-grid__title">{{ item.title }}</h2>
 													<p>{{ item.excerpt }}</p>
 												</div><!-- /.nav-grid__content -->
-												<p class="nav-grid__btn">
-													{{ item.cta }}
+												{% for link in item.links %}
+												<a class="nav-grid__btn" href="{{ link.url }}">
+													{{ link.title }}
 													<i class="icon icon--arrow-right"></i>
-												</p>
-											</a><!-- /.nav-grid__item -->
+												</a>
+												{% endfor %}
+											</div><!-- /.nav-grid__item -->
 										</div><!-- /.col -->
 									{% endfor %}
 								</div><!-- /.row -->

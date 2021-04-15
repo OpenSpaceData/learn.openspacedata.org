@@ -1,10 +1,10 @@
 # Theme settings
 doks:
     baseurl:
-    color_theme: # Available themes: blue (default), green, purple, red and yellow
+    color_theme: red # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
-            text: Project name
+            text: OpenSpaceData.org
             image:
         nav:
             - item_name: Item 1
@@ -16,18 +16,16 @@ doks:
     footer:
         content:
             logo:
-                text: Project name
+                text: OpenSpaceData.org
                 image:
-            copyright: Copyright &copy; 2017. - Project name <br>All rights reserved.
+            copyright: OpenSpaceData.org <br>Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license.
         social_list:
-            - network_name: facebook
-              profile_url: '#'
+            - network_name: home
+              profile_url: 'https://www.openspacedata.org/'
             - network_name: twitter
-              profile_url: '#'
-            - network_name: instagram
-              profile_url: '#'
-            - network_name: youtube
-              profile_url: '#'
+              profile_url: 'https://twitter.com/openspacedata1'
+            - network_name: github
+              profile_url: 'https://github.com/OpenSpaceData'
     google_analytics:
         tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
     comments:
