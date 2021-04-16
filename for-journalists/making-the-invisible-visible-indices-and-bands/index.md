@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Page title
-description: Page description
+title: Making the Invisible Visible&#58; Indices & bands
+description: This site is work in progress
 
 # Author box
 # author:
@@ -16,7 +16,7 @@ description: Page description
 #     description: Author description
 
 # Micro navigation
-micro_nav: true
+micro_nav: false
 
 # Page navigation
 page_nav:

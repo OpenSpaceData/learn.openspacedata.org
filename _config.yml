@@ -4,7 +4,7 @@ doks:
     color_theme: red # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
-            text: OpenSpaceData.org
+            text: Learn EO
             image:
         nav:
             - item_name: Item 1
@@ -16,9 +16,9 @@ doks:
     footer:
         content:
             logo:
-                text: OpenSpaceData.org
+                text: A project of OpenSpaceData.org
                 image:
-            copyright: OpenSpaceData.org <br>Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license.
+            copyright: Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution 4.0 International license.
         social_list:
             - network_name: home
               profile_url: 'https://www.openspacedata.org/'
@@ -39,5 +39,5 @@ sass:
 # Jekyll settings
 layouts_dir: ./doks-theme/_layouts
 includes_dir: ./doks-theme/_includes
-exclude: [ 'README.md', 'CHANGELOG.md' ]
+exclude: [ 'README.md' ]
 permalink: /:title/
