@@ -12,13 +12,6 @@ buttons:
       url: '#'
       external_url: false
 
-# Author box
-# author:
-#     title: About this project
-#     title_url: '#'
-#     external_url: true
-#     description: Author description
-
 # Grid navigation
 grid_navigation:
     - title: The basics

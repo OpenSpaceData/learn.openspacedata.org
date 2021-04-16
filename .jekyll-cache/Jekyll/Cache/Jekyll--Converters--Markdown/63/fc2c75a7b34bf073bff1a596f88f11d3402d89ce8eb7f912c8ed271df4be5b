@@ -1,0 +1,5 @@
+I"ê<h1 id="how-to-add-content-to-this-guide">How to add content to this guide</h1>
+<p>Content should be in <a href="https://daringfireball.net/projects/markdown/">Markdown</a> format and you shouldnâ€™t remove <code class="language-plaintext highlighter-rouge">.yml</code> comments on top of the <code class="language-plaintext highlighter-rouge">.md</code> files, errors may occur if you remove them.</p>
+
+<h2 id="create-a-new-special-interest-guide">Create a new special interest guide</h2>
+:ET

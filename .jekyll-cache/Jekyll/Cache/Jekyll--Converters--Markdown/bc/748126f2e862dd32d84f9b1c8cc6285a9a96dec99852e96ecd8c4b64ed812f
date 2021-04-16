@@ -1,0 +1,11 @@
+I"�<h1 id="how-to-add-content-to-this-guide">How to add content to this guide</h1>
+<p>To contribute to this guide, install this page locally and then create a pull request. You can find instructions on how to do this in the <code class="language-plaintext highlighter-rouge">README.md</code>.</p>
+
+<p>Content should be in <a href="https://daringfireball.net/projects/markdown/">Markdown</a> format and you shouldn’t remove <code class="language-plaintext highlighter-rouge">.yml</code> comments on top of the <code class="language-plaintext highlighter-rouge">.md</code> files, errors may occur if you remove them.</p>
+
+<div class="callout callout--info">
+    <p><strong>Format your content</strong> Content should be in <a href="https://daringfireball.net/projects/markdown/">Markdown</a> format and you shouldn’t remove `.yml` comments on top of the `.md` files, errors may occur if you remove them.</p>
+</div>
+
+<h2 id="create-a-new-special-interest-guide">Create a new special interest guide</h2>
+:ET
