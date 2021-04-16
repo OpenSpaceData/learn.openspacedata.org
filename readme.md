@@ -1,5 +1,7 @@
 # learn.openspacedata.org
 
+This guide is designed to help beginners use Earth observation data and learn remote sensing techniques. The focus is on the special interest guides, which are currently aimed at journalists and humanitarian organisations.
+
 ## Contributing
 
 If you're comfortable with web development:
