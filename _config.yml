@@ -6,13 +6,13 @@ doks:
         logo:
             text: Learn EO
             image:
-        nav:
-            - item_name: Item 1
-              item_url: '#'
-            - item_name: Item 2
-              item_url: '#'
-            - item_name: Item 3
-              item_url: '#'
+#        nav:
+#            - item_name: Item 1
+#              item_url: '#'
+#            - item_name: Item 2
+#              item_url: '#'
+#            - item_name: Item 3
+#              item_url: '#'
     footer:
         content:
             logo:
