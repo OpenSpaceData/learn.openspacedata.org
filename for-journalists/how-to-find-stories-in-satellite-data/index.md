@@ -28,4 +28,14 @@ page_nav:
         url: '#'
 ---
 
-Write your markdown here ...
+Outline:
+- Lorem ipsum
+- lorem ipsum
+- lorem ipsum
+
+Sources and references:
+- [How to Identify Burnt Villages by Satellite Imagery ](https://www.bellingcat.com/resources/how-tos/2018/09/04/identify-burnt-villages-satellite-imagery%e2%80%8a-case-studies-california-nigeria-myanmar/)
+- [Using Time-Lapse Satellite Imagery To Detect Infrastructure Changes: Case-Studies via Myanmar, Nigeria and the South China Sea](https://www.bellingcat.com/resources/how-tos/2018/11/19/using-time-lapse-satellite-imagery-detect-infrastructure-changes-case-studies-via-myanmar-nigeria-south-china-sea/)
+- [Five ways to find EXIF/metadata in a satellite image](https://www.youtube.com/watch?v=d3NsT8lJRlE)
+- [Find when an image was taken with satellite imagery](https://www.youtube.com/watch?v=KpN9nEnivnU)
+- [How to use open source satellite data for your investigative reporting](https://towardsdatascience.com/how-to-use-open-source-satellite-data-for-your-investigative-reporting-d662cb1f9f90)

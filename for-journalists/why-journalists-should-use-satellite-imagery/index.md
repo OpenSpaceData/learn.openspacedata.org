@@ -28,4 +28,12 @@ page_nav:
         url: '#'
 ---
 
-Write your markdown here ...
+Outline:
+- Lorem ipsum
+- lorem ipsum
+- lorem ipsum
+
+Sources and references:
+- [News from the Sky ](https://revealnews.org/article/techraking-20-news-from-the-sky/)
+- [Why Newsrooms need People with Expertise in Remote Sensing by Pierre Markuse](https://medium.com/sentinel-hub/why-newsrooms-need-people-with-expertise-in-remote-sensing-a8e83cedda0a)
+- 

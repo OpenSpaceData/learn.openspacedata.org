@@ -28,4 +28,13 @@ page_nav:
         url: '#'
 ---
 
-Write your markdown here ...
+Outline:
+- Lorem ipsum
+- lorem ipsum
+- lorem ipsum
+
+Sources and references:
+- [Location-Based Data in Crisis Situations](https://www.aaas.org/resources/location-based-data-crisis-situations)
+- [Environmental Monitoring of Conflicts using Sentinel-2 data](https://medium.com/sentinel-hub/environmental-monitoring-of-conflicts-using-sentinel-2-61f07d76e27b)
+- [Myanmar protests seen from space on Google Earth Pro](https://www.youtube.com/watch?v=9te9YAA9A_U)
+- [How to Identify Burnt Villages by Satellite Imagery ](https://www.bellingcat.com/resources/how-tos/2018/09/04/identify-burnt-villages-satellite-imagery%e2%80%8a-case-studies-california-nigeria-myanmar/)

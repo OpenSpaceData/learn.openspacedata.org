@@ -23,9 +23,7 @@ micro_nav: false
 ---
 
 # How to add content to this guide
-To contribute to this guide, install this page locally and then create a pull request. You can find instructions on how to do this in the `README.md`.
-
-Content should be in [Markdown](https://daringfireball.net/projects/markdown/) format and you shouldn’t remove `.yml` comments on top of the `.md` files, errors may occur if you remove them.
+To contribute to this guide, install this page locally and then create a pull request. You can find instructions on how to do this in the `README.md` ([https://github.com/OpenSpaceData/learn.openspacedata.org#readme](https://github.com/OpenSpaceData/learn.openspacedata.org#readme)).
 
 <div class="callout callout--info">
     <p><strong>Format your content</strong> Content should be in <a href="https://daringfireball.net/projects/markdown/">Markdown</a> format and you shouldn’t remove <code>.yml</code> comments on top of the <code>.md</code> files, errors may occur if you remove them.</p>

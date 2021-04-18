@@ -28,4 +28,10 @@ page_nav:
         url: '#'
 ---
 
-Write your markdown here ...
+Outline:
+- Lorem ipsum
+- lorem ipsum
+- lorem ipsum
+
+Sources and references:
+- [10 places to get free satellite images for investigative journalists](https://www.geospatialworld.net/blogs/free-satellite-images-for-investigative-journalists/)

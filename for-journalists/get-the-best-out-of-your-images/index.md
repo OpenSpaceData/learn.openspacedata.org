@@ -28,4 +28,10 @@ page_nav:
         url: '#'
 ---
 
-Write your markdown here ...
+Outline:
+- Lorem ipsum
+- lorem ipsum
+- lorem ipsum
+
+Sources and references:
+- [How to create a satellite image time lapse](https://www.youtube.com/watch?v=gMuVP9JI2ps)

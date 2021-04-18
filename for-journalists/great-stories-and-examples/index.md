@@ -28,4 +28,12 @@ page_nav:
         url: '#'
 ---
 
-Write your markdown here ...
+Outline:
+- Lorem ipsum
+- lorem ipsum
+- lorem ipsum
+
+Sources and references:
+- [Myanmar protests seen from space on Google Earth Pro](https://www.youtube.com/watch?v=9te9YAA9A_U)
+- [Stories by Wim Zwijnenburg](https://www.bellingcat.com/author/wim-zwijnenburg/)
+- [Anatomy of a Killing](https://www.youtube.com/watch?v=4G9S-eoLgX4)
