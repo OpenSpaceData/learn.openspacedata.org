@@ -39,3 +39,4 @@ Sources and references:
 - [Five ways to find EXIF/metadata in a satellite image](https://www.youtube.com/watch?v=d3NsT8lJRlE)
 - [Find when an image was taken with satellite imagery](https://www.youtube.com/watch?v=KpN9nEnivnU)
 - [How to use open source satellite data for your investigative reporting](https://towardsdatascience.com/how-to-use-open-source-satellite-data-for-your-investigative-reporting-d662cb1f9f90)
+- [How to geolocate a hiker given only a general location and a grainy photo of their legs hanging off a cliff](https://twitter.com/ai6yrham/status/1382371967618097157)

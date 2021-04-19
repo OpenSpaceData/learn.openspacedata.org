@@ -39,3 +39,4 @@ Sources and references:
 - [Google Earth Engine](https://earthengine.google.com/)
 - [Google Earth Studio](https://www.google.com/earth/studio/) 
 - [10 places to get free satellite images for investigative journalists](https://www.geospatialworld.net/blogs/free-satellite-images-for-investigative-journalists/)
+- [Using the Sun and the Shadows for Geolocation](https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/) 

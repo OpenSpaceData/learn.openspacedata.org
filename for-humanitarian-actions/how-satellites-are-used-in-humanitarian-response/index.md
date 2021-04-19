@@ -38,3 +38,4 @@ Sources and references:
 - [Environmental Monitoring of Conflicts using Sentinel-2 data](https://medium.com/sentinel-hub/environmental-monitoring-of-conflicts-using-sentinel-2-61f07d76e27b)
 - [Myanmar protests seen from space on Google Earth Pro](https://www.youtube.com/watch?v=9te9YAA9A_U)
 - [How to Identify Burnt Villages by Satellite Imagery ](https://www.bellingcat.com/resources/how-tos/2018/09/04/identify-burnt-villages-satellite-imagery%e2%80%8a-case-studies-california-nigeria-myanmar/)
+- [How to geolocate a hiker given only a general location and a grainy photo of their legs hanging off a cliff](https://twitter.com/ai6yrham/status/1382371967618097157)
