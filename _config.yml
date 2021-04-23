@@ -41,3 +41,12 @@ layouts_dir: ./doks-theme/_layouts
 includes_dir: ./doks-theme/_includes
 exclude: [ 'README.md' ]
 permalink: /:title/
+
+plugins:
+  - "jekyll-github-metadata"
+
+repository: OpenSpaceData/learn.openspacedata.org
+
+github:
+  source:
+    branch: master

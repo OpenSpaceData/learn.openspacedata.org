@@ -39,6 +39,24 @@
 	}
 }
 
+.btn--red {
+	color: $color-dark-blue;
+	background-color: $color-theme-red;
+	padding: .5625rem 1.5625rem;
+	transition: color .2s, background-color .2s;
+
+	@media (min-width: $screen-sm-min) {
+		padding: .8125rem 2.1875rem;
+	}
+
+	&:hover,
+	&:focus,
+	&:active {
+		color: $color-dark-blue;
+		background-color: $color-yellow;
+	}
+}
+
 .btn--w-icon {
 	.icon {
 		float: right;
@@ -72,5 +90,16 @@
 		.icon {
 			@include translate(.3125rem, 0);
 		}
+	}
+}
+
+a.github-edit {
+	background: $color-dark-blue;
+	padding: 7px 15px;
+	color: #fff;
+	border-radius: 2px;
+
+	span {
+		margin-left: 5px;
 	}
 }
