@@ -34,4 +34,4 @@ Outline:
 - lorem ipsum
 
 Sources and references:
-- 
+- [“Zombie” Fires in the Arctic— Clickbait or real?](https://medium.com/sentinel-hub/zombie-fires-in-the-arctic-clickbait-or-real-a3eec97a70be)
