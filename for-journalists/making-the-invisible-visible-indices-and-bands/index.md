@@ -35,3 +35,4 @@ Outline:
 
 Sources and references:
 - [“Zombie” Fires in the Arctic— Clickbait or real?](https://medium.com/sentinel-hub/zombie-fires-in-the-arctic-clickbait-or-real-a3eec97a70be)
+- [Some basics about wildfires, how to find them, and how to create images from satellite data](https://pierre-markuse.net/2019/09/17/looking-at-wildfires-and-more-an-introduction/)
