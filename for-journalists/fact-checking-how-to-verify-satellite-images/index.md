@@ -34,4 +34,4 @@ Outline:
 - lorem ipsum
 
 Sources and references:
-- 
+- [When is a satellite image fake? Are there easy ways to tell?](https://medium.com/sentinel-hub/its-a-faaaake-or-not-bace4f0c01ec)
